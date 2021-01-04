@@ -1,0 +1,32 @@
+[
+{
+  "rank": "6/10", "flavour": "Flavour: good", "shape": "Shape: average", "durability": "Durability: strong", "texture": "Texture: great"
+},
+{
+  "rank": "10/10", "flavour": "Flavour: great", "shape": "Shape: okay", "durability": "Durability: weak", "texture": "Texture: amazing"
+},
+{
+  "rank": "8/10", "flavour": "Flavour: great", "shape": "Shape: good", "durability": "Durability: weak", "texture": "Texture: bad"
+},
+{
+  "rank": "7/10", "flavour": "Flavour: good", "shape": "Shape: good", "durability": "Durability: good", "texture": "Texture: good"
+},
+{
+  "rank": "8/10", "flavour": "Flavour: great", "shape": "Shape: good", "durability": "Durability: good", "texture": "Texture: great"
+},
+{
+  "rank": "7/10", "flavour": "Flavour: great", "shape": "Shape: okay", "durability": "Durability: weak", "texture": "Texture: amazing"
+},
+{
+  "rank": "9/10", "flavour": "Flavour: great", "shape": "Shape: great", "durability": "Durability: great", "texture": "Texture: amazing"
+},
+{
+  "rank": "8/10", "flavour": "Flavour: good", "shape": "Shape: good", "durability": "Durability: okay", "texture": "Texture: okay"
+},
+{
+  "rank": "5/10", "flavour": "Flavour: good", "shape": "Shape: bad", "durability": "Durability: weak", "texture": "Texture: bad"
+},
+{
+  "rank": "8/10", "flavour": "Flavour: good", "shape": "Shape: amazing", "durability": "Durability: strong", "texture": "Texture: good"
+}
+]

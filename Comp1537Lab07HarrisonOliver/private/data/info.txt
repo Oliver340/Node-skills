@@ -1,0 +1,79 @@
+<ul>
+<li>Tiramisu</li>
+<li>Cheesecake</li>
+<li>IceCream</li>
+<li>Fudge</li>
+<li>Pie</li>
+</ul>
+
+<ul>
+<li>Pina Colada</li>
+<li>Margarita</li>
+<li>Martini</li>
+<li>Coca Cola</li>
+<li>Iced Tea</li>
+</ul>
+
+<ul>
+<li>Asparagus</li>
+<li>Broccoli</li>
+<li>Nachos</li>
+<li>Coleslaw</li>
+<li>Fries</li>
+</ul>
+
+<ul>
+<li>Bruschetta</li>
+<li>Shrimp</li>
+<li>Stuffed Mushrooms</li>
+<li>Deviled Eggs</li>
+<li>Chicken Fingers</li>
+</ul>
+
+<ul>
+<li>Broccoli</li>
+<li>Carrots </li>
+<li>Asparagus</li>
+<li>Squash</li>
+<li>Peas</li>
+</ul>
+
+<ul>
+<li>Steak</li>
+<li>Chicken</li>
+<li>Nuts</li>
+<li>Beans</li>
+<li>Fish</li>
+</ul>
+
+<ul>
+<li>Bread</li>
+<li>Rice</li>
+<li>Popcorn</li>
+<li>Bagels</li>
+<li>Cheerios</li>
+</ul>
+
+<ul>
+<li>Milk</li>
+<li>Ice Cream</li>
+<li>Yogurt</li>
+<li>Milkshake</li>
+<li>Cheese</li>
+</ul>
+
+<ul>
+<li>Apples</li>
+<li>Bananas</li>
+<li>Bread</li>
+<li>Beans</li>
+<li>Pasta</li>
+</ul>
+
+<ul>
+<li>Avocado</li>
+<li>Cheese</li>
+<li>Dark Chocolate</li>
+<li>Eggs</li>
+<li>Nuts</li>
+</ul>

@@ -1,0 +1,432 @@
+body{
+  background-image: url("https://wallpaperaccess.com/full/1463531.jpg");
+  height: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#content{
+  filter: blur(0px);
+  filter:drop-shadow(4px 4px 12px gray);
+  background-color: rgb(226,188,35,0.2);
+  height: auto;
+}
+
+#navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: lightgray;
+}
+#title{
+  font-family: 'Dancing Script', cursive;
+  float: left;
+  font-size: 3em;
+  color: darkblue;
+  animation-name: anim3;
+  animation-duration: 4s;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+}
+@keyframes anim3 {
+  0%   {color:darkblue;}
+  25%  {color:darkgreen;}
+  50% {color:darkcyan;}
+  75%  {color:darkgreen;}
+  100%   {color:darkblue;}
+}
+#home{
+  font-size: 2em;
+}
+#home:hover {
+  animation-name: anim1;
+  animation-duration: 4s;
+  animation-delay: 0s;
+}
+@keyframes anim1 {
+  0%   {background-color:red;}
+  25%  {background-color:yellow;}
+  50%  {background-color:green;}
+  75%  {background-color:red;}
+  100% {background-color:yellow;}
+}
+#about{
+  font-size: 2em;
+}
+#about:hover{
+  animation-name: anim2;
+  animation-duration: 4s;
+  animation-delay: 0s;
+}
+@keyframes anim2 {
+  50% {transform: translateX(5em);}
+  100% {transform: translateX(0em);}
+}
+#navimg{
+  width: 75px;
+  border-radius: 50%;
+  
+}
+
+#maincontent{
+  margin-top: 5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#maincontent a{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#titletext{
+  font-family: 'Dancing Script', cursive;
+  margin: 1%;
+  font-size: 3em;
+  color: darkblue;
+}
+#abouttext{
+  font-size: 1.5em;
+  width: 70%;
+  margin: 1%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  white-space: pre;
+}
+
+
+#maingrid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 2fr 2fr 2fr 2fr;
+  justify-items: center;
+  align-content: center;
+  margin: 2%;
+  margin-top: 5%;
+  padding: 1%;
+  border-style: ridge;
+  border-color: black;
+  column-gap: 2em;
+}
+#maingrid > p{
+  font-family: 'Dancing Script', cursive;
+  grid-column: 2 / span 1;
+  grid-row: 1 / span 1;
+  font-size: 4em;
+  color: darkblue;
+}
+.mains{
+  font-size: 3em;
+}
+
+#gridcell1{
+  grid-column: 1 / span 1;
+  grid-row: 2 / span 1;
+}
+#gridcell1 p{
+  
+}
+
+#gridcell2{
+  grid-column: 2 / span 1;
+  grid-row: 2 / span 1;
+}
+#gridcell2 p{
+  
+}
+
+#gridcell3{
+  grid-column: 3 / span 1;
+  grid-row: 2 / span 1;
+}
+#gridcell3 p{
+  
+}
+
+#gridcell4{
+  grid-column: 1 / span 1;
+  grid-row: 3 / span 1;
+}
+#gridcell4 p{
+  
+}
+
+#gridcell5{
+  grid-column: 2 / span 1;
+  grid-row: 3 / span 1;
+}
+#gridcell5 p{
+  
+}
+
+#gridcell6{
+  grid-column: 3 / span 1;
+  grid-row: 3 / span 1;
+}
+#gridcell6 p{
+  
+}
+
+#gridcell7{
+  grid-column: 1 / span 1;
+  grid-row: 4 / span 1;
+}
+#gridcell7 p{
+  
+}
+
+#gridcell8{
+  grid-column: 2 / span 1;
+  grid-row: 4 / span 1;
+}
+#gridcell8 p{
+  
+}
+
+#gridcell9{
+  grid-column: 3 / span 1;
+  grid-row: 4 / span 1;
+}
+#gridcell9 p{
+  
+}
+
+#gridcell10{
+  grid-column: 2 / span 1;
+  grid-row: 5 / span 1;
+}
+#gridcell10 p{
+  
+}
+#description1{
+  font-size: 2em;
+}
+#description2{
+  font-size: 2em;
+}
+#description3{
+  font-size: 2em;
+}
+#description4{
+  font-size: 2em;
+}
+#description5{
+  font-size: 2em;
+}
+#description6{
+  font-size: 2em;
+}
+#description7{
+  font-size: 2em;
+}
+#description8{
+  font-size: 2em;
+}
+#description9{
+  font-size: 2em;
+}
+#description10{
+  font-size: 2em;
+}
+
+
+
+
+
+@media only screen and (max-width : 600px){
+  
+body{
+  background-image: url("https://wallpaperaccess.com/full/1463531.jpg");
+  height: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#content{
+  filter: blur(0px);
+  filter:drop-shadow(4px 4px 12px gray);
+  background-color: rgb(226,188,35,0.2);
+  height: auto;
+}
+
+#navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: lightgray;
+}
+#title{
+  font-size: 2em;
+  color: darkblue;
+}
+#home{
+  font-size: 0.75em;
+}
+#about{
+  font-size: 0.75em;
+}
+#navimg{
+  width: 50px;
+  border-radius: 50%;
+}
+
+#maincontent{
+  margin-top: 5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#titletext{
+  margin: 1%;
+  font-size: 3em;
+  color: darkblue;
+}
+#abouttext{
+  width: 70%;
+  margin: 1%;
+  display: flex;
+  flex-wrap: wrap;
+  white-space: pre;
+}
+
+
+#maingrid{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 2fr 2fr 2fr 2fr 2fr;
+  justify-items: center;
+  align-content: center;
+  margin: 2%;
+  margin-top: 5%;
+  padding: 1%;
+  border-style: ridge;
+  border-color: black;
+  column-gap: 2em;
+}
+#maingrid > p{
+  grid-column: 1 / span 2;
+  grid-row: 1 / span 1;
+  font-size: 3em;
+  color: darkblue;
+}
+.mains{
+  font-size: 2em;
+}
+
+#gridcell1{
+  grid-column: 1 / span 1;
+  grid-row: 2 / span 1;
+}
+#gridcell1 p{
+  
+}
+
+#gridcell2{
+  grid-column: 2 / span 1;
+  grid-row: 2 / span 1;
+}
+#gridcell2 p{
+  
+}
+
+#gridcell3{
+  grid-column: 1 / span 1;
+  grid-row: 4 / span 1;
+}
+#gridcell3 p{
+  
+}
+
+#gridcell4{
+  grid-column: 1 / span 1;
+  grid-row: 3 / span 1;
+}
+#gridcell4 p{
+  
+}
+
+#gridcell5{
+  grid-column: 2 / span 1;
+  grid-row: 3 / span 1;
+}
+#gridcell5 p{
+  
+}
+
+#gridcell6{
+  grid-column: 2 / span 1;
+  grid-row: 4 / span 1;
+}
+#gridcell6 p{
+  
+}
+
+#gridcell7{
+  grid-column: 1 / span 1;
+  grid-row: 5 / span 1;
+}
+#gridcell7 p{
+  
+}
+
+#gridcell8{
+  grid-column: 2 / span 1;
+  grid-row: 5 / span 1;
+}
+#gridcell8 p{
+  
+}
+
+#gridcell9{
+  grid-column: 1 / span 1;
+  grid-row: 6 / span 1;
+}
+#gridcell9 p{
+  
+}
+
+#gridcell10{
+  grid-column: 2 / span 1;
+  grid-row: 6 / span 1;
+}
+#gridcell6 p{
+  
+}
+  
+#description1{
+  font-size: 1em;
+}
+#description2{
+  font-size: 1em;
+}
+#description3{
+  font-size: 1em;
+}
+#description4{
+  font-size: 1em;
+}
+#description5{
+  font-size: 1em;
+}
+#description6{
+  font-size: 1em;
+}
+#description7{
+  font-size: 1em;
+}
+#description8{
+  font-size: 1em;
+}
+#description9{
+  font-size: 1em;
+}
+#description10{
+  font-size: 1em;
+}
+}
